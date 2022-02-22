@@ -1,0 +1,1 @@
+# amplication-simple-app-testing
